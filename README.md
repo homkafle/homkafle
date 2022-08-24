@@ -89,7 +89,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
-![Burp Suite Pro](https://img.shields.io/static/v1?label=Burp%20Suite%20Pro&message=Extension%20Development&color=blue)&nbsp;
+  
+https://img.shields.io/static/v1?label=Burp%20Suite%20Pro&message=Extension%20Development&color=blue &nbsp;
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![Risk Assessment](https://img.shields.io/badge/GOOGLE%20CLOUD%20PLATAFORM-4285F4.svg?&style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
