@@ -36,12 +36,12 @@ Bio
 
 <img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-orange"></img>
 <img src="https://img.shields.io/badge/Reverse%20Engineering-%20-blue"></img>
-<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-red"></img>
-<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-white"></img>
-<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-green"></img>
-<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-black"></img>
-<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-red"></img>
-<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-orange"></img>
+<img src="https://img.shields.io/badge/Thread%20Modeling-%20-red"></img>
+<img src="https://img.shields.io/badge/Risk%20Management-%20-white"></img>
+<img src="https://img.shields.io/badge/HCL%20App%20Scan-%20-green"></img>
+<img src="https://img.shields.io/badge/Reverse%20Engineering-Ghidra,IDA%20Pro,dnSpy,jd-gui-black"></img>
+<img src="https://img.shields.io/badge/OWASPT%20Top%2010-%20-red"></img>
+<img src="https://img.shields.io/badge/git-%20-orange"></img>
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
