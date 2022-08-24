@@ -33,6 +33,7 @@ Bio
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
+  
 ![BurpSuite Pro](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=burp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
