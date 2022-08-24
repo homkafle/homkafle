@@ -35,13 +35,21 @@ Bio
   <br/>
 
 <img src="https://img.shields.io/badge/Burp%20Suite%20Pro-Web--App%20Hacking-orange"></img>
+<img src="https://img.shields.io/badge/API%20Security-Web--Services-yellow"></img>
+<img src="https://img.shields.io/badge/Mobile%20Application%20Security-ios%20and%20Android-orange"></img>
 <img src="https://img.shields.io/badge/Reverse%20Engineering-%20-blue"></img>
 <img src="https://img.shields.io/badge/Thread%20Modeling-%20-red"></img>
 <img src="https://img.shields.io/badge/Risk%20Management-%20-white"></img>
 <img src="https://img.shields.io/badge/HCL%20App%20Scan-%20-green"></img>
 <img src="https://img.shields.io/badge/Reverse%20Engineering-Ghidra,IDA%20Pro,dnSpy,jd-gui-black"></img>
 <img src="https://img.shields.io/badge/OWASPT%20Top%2010-%20-red"></img>
-<img src="https://img.shields.io/badge/git-%20-orange"></img>
+<img src="https://img.shields.io/badge/SAML-%20-blue"></img>
+<img src="https://img.shields.io/badge/OAuth-%20-orange"></img>
+<img src="https://img.shields.io/badge/OIDC-%20-green"></img>
+<img src="https://img.shields.io/badge/IAM-%20-white"></img>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Security-%20-purple"></img>
+<img src="https://img.shields.io/badge/Objection-%20-orange"></img>
+<img src="https://img.shields.io/badge/Frida-%20-orange"></img>
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -51,7 +59,7 @@ Bio
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;\
+![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
@@ -61,7 +69,7 @@ Bio
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;\
+![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
 
