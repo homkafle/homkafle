@@ -5,7 +5,7 @@
 -->
 I'm an Information Security Engineer working in Texas, USA. 
 
-Here are some ideas to get you started:
+Bio
 
 - 🔭 I’m currently looking for my next adventure.
 - 🌱 I’m currently learning Kubernetes Security
