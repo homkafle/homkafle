@@ -7,14 +7,14 @@ I'm an Information Security Engineer working in Texas, USA.
 
 Bio
 
-- 🔭 I’m currently looking for my next adventure.
+- 🔭 I’m currently looking for my next adventure
 - 🌱 I’m currently learning Kubernetes Security
-- 👯 I’m looking to collaborate on CI/CD Automation
-- 🤔 I’m looking to grow my network in Information Security Community
+- 👯 I’m looking to learn & collaborate on CI/CD Automation
+- 🤔 I think API security is vital
 - 💬 Ping me about AppSec, Automation, Cloud Security, Kubernetes
-- 📫 How to reach me: twitter.com/hom_kafle
+- 📫 twitter.com/hom_kafle
 - 😄 Roles I played: Teacher, Researcher, Administrator, Network Security Consultant, Ethical Hacker, AppSec Specialist, Product Security
-- ⚡ Fun fact: I'm a Personal Trainer 
+- ⚡ Fun fact: I'm a Part-time Personal Trainer 
 
 <p align="center">
   <a href="mailto:homkafle@gmail.com?subject=Hello%20Hom%20KAFLE"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
