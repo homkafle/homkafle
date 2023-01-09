@@ -3,18 +3,7 @@
 <!--
 **homkafle/homkafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm an Information Security Engineer working in Texas, USA. 
-
-Bio
-
-- 🔭 I’m currently looking for my next adventure
-- 🌱 I’m currently learning Kubernetes Security
-- 👯 I’m looking to learn & collaborate on CI/CD Automation
-- 🤔 I think API security is vital
-- 💬 Ping me about AppSec, Automation, Cloud Security, Kubernetes
-- 📫 twitter.com/hom_kafle
-- 😄 Roles I played: Teacher, Researcher, Administrator, Network Security Consultant, Ethical Hacker, AppSec Specialist, Product Security
-- ⚡ Fun fact: I'm a Part-time Personal Trainer 
+Hom is an experienced Information Security Professional. Driven by doing things right, he takes pride in providing the best solutions possible. As a product security engineer, his goals include designing and building efficient & secure software products. In additional to his primary job functions, Hom is a fitness professional who finds joy in motivating and helping others reach their health and fitness goals. 
 
 <p align="center">
   <a href="mailto:homkafle@gmail.com?subject=Hello%20Hom%20KAFLE"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
