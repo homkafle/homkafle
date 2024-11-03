@@ -7,7 +7,7 @@ Hom is an accomplished Information Security Professional with a strategic vision
 
 Hom’s leadership is reflected in his ability to step back and see the bigger picture. He identifies not just the immediate technical solutions but also the wider strategic pathways to build secure and resilient products. By recognizing team strengths, he orchestrates the right talent to address complex security challenges, aligning stakeholders from development, product, and business units to create cohesive, end-to-end security strategies. His approach involves deploying metrics and tools that facilitate continuous progress tracking and accountability, ensuring that each team understands their role and contributions towards the ultimate goal of product integrity and customer trust.
 
-In addition to his primary role, Hom is a dedicated fitness professional, bringing the same level of motivation and discipline to his community. His leadership in security is mirrored in his approach to fitness—helping others achieve their goals through accountability, encouragement, and well-defined pathways. Hom’s career reflects a commitment to not only solving today’s challenges but also preparing for the threats and opportunities of tomorrow. His vision, combined with a holistic understanding of business needs, positions him as a forward-thinking leader poised to drive impactful change in the field of information security.
+
 
 <p align="center">
   <a href="mailto:homkafle@gmail.com?subject=Hello%20Hom%20KAFLE"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
